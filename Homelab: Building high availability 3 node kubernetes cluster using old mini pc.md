@@ -1,4 +1,6 @@
 # Homelab: Building high availability 3 node kubernetes cluster using old mini pc
+---
+<img src="https://raw.githubusercontent.com/vishal-pandey/homelab/refs/heads/main/3-node-high-availability-kubernetes-cluster.jpg" />
 
 Every homelab enthusiast reaches a point where the simple stuff just isn't enough. Docker containers are great, but you start to crave something more—something that mirrors the real-world, resilient infrastructure that powers the cloud. That's where I was. Standing in my lab, looking at three perfectly capable mini PCs, I had a vision: a fully resilient, High-Availability (HA) Kubernetes cluster, built from the ground up on bare metal for maximum performance.
 
